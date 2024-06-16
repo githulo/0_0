@@ -1,5 +1,9 @@
-![IMG_20240502_005617](https://github.com/githulo/N.B.B.S/assets/172950822/c41e7d38-4411-4b9b-b39f-e633781de3c0)
 ###### NAGA BERLIAN BUMI SENTOSA
+
+
+![IMG_20240502_005617](https://github.com/githulo/0_0/assets/172950822/f7bce586-34dc-4fc4-9181-e8facaf51b93)
+
+
 
 contact : *saut@naga.uno*
 

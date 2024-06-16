@@ -5,7 +5,7 @@
 
 
 
-contact : *saut@naga.uno*
+contact : [Saut Sinaga](mailto:saut@naga.uno?subject=[From%20Website]%20Info%20Penawaran%20Kerjasama)
 
 <!---
 githulo/githulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
-![IMG_20240502_005617](https://github.com/githulo/N.B.B.S/assets/172950822/c41e7d38-4411-4b9b-b39f-e633781de3c0)
-    NAGA BERLIAN BUMI SENTOSA
+<img src="https://github.com/githulo/N.B.B.S/assets/172950822/c41e7d38-4411-4b9b-b39f-e633781de3c0)" width="200">
+###### NAGA BERLIAN BUMI SENTOSA
 
-contact : saut@naga.uno
+contact : *saut@naga.uno*
 
 <!---
 githulo/githulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
